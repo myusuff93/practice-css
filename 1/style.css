@@ -1,0 +1,10 @@
+body {
+  background-color: #f4f4f4;
+  font-family: "Inter", sans-serif;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
